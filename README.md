@@ -1,1 +1,1 @@
-# simply-printify-project
+# printify-sample-ui
